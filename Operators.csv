@@ -1,0 +1,5 @@
+﻿operator_id,operator_name,operator_company_code,operator_vat_code,operator_title
+1,Telia,121215434,LT212154314,"Telia Lietuva, AB"
+2,Bitė,110688998,LT106889917,UAB Bitė Lietuva
+3,Tele2,111471645,LT114716417,UAB TELE2
+4,External,NULL,NULL,Trečioji šalis
